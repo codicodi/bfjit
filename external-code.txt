@@ -1,0 +1,11 @@
+test/bitwidth.b     https://github.com/rdebath/Brainfuck
+test/cells30k.b     https://github.com/rdebath/Brainfuck
+test/cell-size.b    https://esolangs.org/wiki/Brainfuck#Cell_Size
+test/eof.b          http://www.hevanet.com/cristofd/brainfuck/tests.b
+test/factor.b       http://www.muppetlabs.com/~breadbox/bf/factor.b.txt
+test/hanoi.b        http://www.clifford.at/bfcpu/hanoi.html
+test/hello-world.b  https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages#Brainfuck
+test/life.b         http://www.linusakesson.net/programming/brainfuck/
+test/long.b         http://mazonka.com/brainf/
+test/lost-kingdom.b https://jonripley.com/i-fiction/games/LostKingdomBF.html
+test/mandelbrot.b   http://esoteric.sange.fi/brainfuck/utils/mandelbrot/

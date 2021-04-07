@@ -1,0 +1,29 @@
+Lost Kingdom
+(C) Jon Ripley 2004, 2005
+Brainfuck Edition v0.11
+
+To read the back-story enter '!'.
+For a list of commands enter '?'.
+
+Enable long room descriptions (Y/N) ? 
+Ramshackle Hut
+
+You are standing inside your ramshackle wooden hut. The squalor here has
+replaced the comfort and grandeur of your former royal palace. In one corner
+near the north door leading to your garden lies the pile of straw you use as
+a bed. Fixed in place by an unknown magic, next to a small table, is a wooden
+mockery of your former throne. The main door to the east leads outside to a
+road.
+
+You can see:
+  a small wooden box of matches sitting on the table (2)
+
+>Are you sure (Y/N) ? 
+*** You have quit ***
+
+You scored 0 points out of a possible 100.
+You have earned the rank of Amateur.
+
+Another game (Y/N) ? 
+Thanks for playing.
+
